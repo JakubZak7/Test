@@ -37,7 +37,7 @@ git init - dodawanie gita do lokalizacji
 "Dwie spacje" - Pismo od kolejnej linijki  
 "**" - Powiększenie tekstu
 "*" - Pochylenie tekstu  
-"|" i "---" - To dodawanie tabelek a także robienie header rowa za pomocą "---"
+"|" i "---" - To dodawanie tabelek a także robienie header rowa za pomocą "---"   
 "!["tekst"]"("Lokalizacja zdjęcia")" - Dodawanie foty (Wykrzyknik WAŻNY)
   
 
