@@ -1,0 +1,1 @@
+# Sprawdz czy dziala
