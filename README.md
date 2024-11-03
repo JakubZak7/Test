@@ -28,3 +28,19 @@ ls - sprawdz pliki
 git remote add origin (lokalizacja na githubie) - dodawanie origina
 
 git init - dodawanie gita do lokalizacji
+
+
+> # Rzeczy do MARKDOWNA
+
+"#" - Header  
+" " - (Pusty Znak) Paragraf  
+"Dwie spacje" - Pismo od kolejnej linijki  
+"**" - Powiększenie tekstu
+"*" - Pochylenie tekstu  
+"!["tekst"]"("Lokalizacja zdjęcia")" - Dodawanie foty (Wykrzyknik WAŻNY)
+  
+
+| Markdown   |   niezbyt   | staranny |  
+| ---------- | ----------- | -------- |
+| Styczen    | Luty        | Marzec   |
+| **500$**   | *450$*      | ***AAa***|
